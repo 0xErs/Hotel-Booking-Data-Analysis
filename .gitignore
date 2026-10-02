@@ -1,0 +1,16 @@
+# Jupyter & Python
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Data files (CSV/SQLite)
+*.csv
+*.xlsx
+*.sqlite
+*.db
+
+# Environments & IDE
+venv/
+env/
+.vscode/
+.DS_Store
